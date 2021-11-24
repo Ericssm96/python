@@ -1,0 +1,5 @@
+print('Bem vindo ao Elurum Rentals.')
+km = float(input('Quantos km você percorreu com o carro alugado?'))
+dias = float(input('Quantos dias você passou com o carro?'))
+preco = (km * 0.15) + (dias * 60)
+print('O preço do seu aluguel ficou {:.2f} reais.'.format(preco))

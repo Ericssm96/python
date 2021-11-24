@@ -1,0 +1,6 @@
+Eric;25
+Luffy;19
+Zoro;21
+Sanji;21
+Nami;19
+Mario;79
